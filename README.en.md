@@ -7,8 +7,8 @@ English | [中文](https://github.com/Hsiungchun/fams-showcase/blob/master/READM
 <!-- TOC -->
 
 - [FAMS-Showcase](#fams-showcase)
-  - [Screenshots on Android](#Screenshots on Android)
-  - [Screenshots on website](#Screenshots on website)
+  - [Screenshots on Android](#screenshots-on-android)
+  - [Screenshots on website](#screenshots-on-website)
 
 <!-- /TOC -->
 
@@ -30,6 +30,6 @@ Home Page|![Home Page](https://raw.githubusercontent.com/Hsiungchun/fams-showcas
 Asset Approval|![Asset Approval](https://raw.githubusercontent.com/Hsiungchun/fams-showcase/master/imgs/web2.JPG)
 Responsible Institutions|![Responsible Institutions](https://raw.githubusercontent.com/Hsiungchun/fams-showcase/master/imgs/web3.JPG)
 Asset Type 1|![Asset Type 1](https://raw.githubusercontent.com/Hsiungchun/fams-showcase/master/imgs/web4.JPG)
-Data Statistics|![Data Statistics](https://raw.githubusercontent.com/Hsiungchun/fams-showcase/master/imgs/web5.gif)
 Asset Type 2|![Asset Type 2](https://raw.githubusercontent.com/Hsiungchun/fams-showcase/master/imgs/web6.gif)
+Data Statistics|![Data Statistics](https://raw.githubusercontent.com/Hsiungchun/fams-showcase/master/imgs/web5.gif)
 Search Features|![Search Features](https://raw.githubusercontent.com/Hsiungchun/fams-showcase/master/imgs/web7.gif)
