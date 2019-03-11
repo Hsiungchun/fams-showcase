@@ -12,4 +12,4 @@ Home Page(en)|![Home Page(en)](https://raw.githubusercontent.com/Hsiungchun/fams
 Asset Page|![Asset Page](https://https://raw.githubusercontent.com/Hsiungchun/fams-showcase/master/imgs/app2.jpg)
 Message Page|![Message Page](https://raw.githubusercontent.com/Hsiungchun/fams-showcase/master/imgs/app3.jpg)
 Detail Page|![Detail Page](https://raw.githubusercontent.com/Hsiungchun/fams-showcase/master/imgs/app4.jpg)
-USer Page|![USer Page](https://raw.githubusercontent.com/Hsiungchun/fams-showcase/master/imgs/app5.jpg)
+User Page|![USer Page](https://raw.githubusercontent.com/Hsiungchun/fams-showcase/master/imgs/app5.jpg)
